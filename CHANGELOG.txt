@@ -1,0 +1,35 @@
+CHANGELOG
+
+Autocorrect
+A font that fixes your spelling.
+Fork of Instrument Sans by Rodrigo Fuenzalida.
+
+
+v1.000 — 2026-03-31
+
+Initial release.
+
+946 misspelling corrections via GSUB ligature substitution.
+Supports lowercase, Sentence case, and ALL CAPS.
+Based on Instrument Sans Regular (OFL) by Rodrigo Fuenzalida / Frag Type Foundry.
+Full Instrument Sans character set preserved (501 base glyphs).
+
+Correction categories:
+- Top 20 most commonly misspelled English words
+- Elementary school spelling list classics
+- Double letter errors (accommodate, embarrass, millennium, etc.)
+- ie/ei confusion (receive, weird, believe, etc.)
+- Professional and academic vocabulary
+- Common keyboard transpositions (teh, adn, taht, etc.)
+- Programmer typos (fucntion, retrun, stirng, defualt, etc.)
+- Missing apostrophe contractions (dont, youre, theyre, etc.)
+- Compound word errors (alot, noone, eachother, etc.)
+- Failure variants (faliure, faluire, failrue)
+
+Technical notes:
+- Corrections use OpenType GSUB Lookup Type 4 (Ligature Substitution)
+- Each correction is a composite glyph referencing the correct letter sequence
+- Corrections activate in any application supporting standard OpenType ligatures
+- All original Instrument Sans OpenType features preserved
+- UPM: 1000
+- Format: TrueType (.ttf)
