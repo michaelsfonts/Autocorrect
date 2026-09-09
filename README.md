@@ -1,5 +1,7 @@
 # Autocorrect
 
+![Autocorrect specimen](images/specimen.png)
+
 A font that fixes your spelling. Try typing: definately, recieve, accomodate
 
 ## Download
