@@ -6,9 +6,9 @@ A font that fixes your spelling. Try typing: definately, recieve, accomodate
 
 ## Download
 
-Grab it from [Releases](https://github.com/michaelsfonts/Autocorrect/releases/latest). TTF for your computer, WOFF2 for the web, or the zip if you want both.
+[Releases](https://github.com/michaelsfonts/Autocorrect/releases/latest). TTF, WOFF2, or the zip.
 
-Everything is also in [`fonts/`](fonts/).
+Or take them from [`fonts/`](fonts/).
 
 ## Details
 
@@ -21,4 +21,4 @@ Everything is also in [`fonts/`](fonts/).
 
 ---
 
-From [Michael's Fonts](https://michaelsfonts.com). The font is finished, so the repo is archived.
+From [Michael's Fonts](https://michaelsfonts.com). Finished, so it's archived.
