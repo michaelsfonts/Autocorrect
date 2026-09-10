@@ -5,7 +5,7 @@ A font that fixes your spelling.
 Fork of Instrument Sans by Rodrigo Fuenzalida.
 
 
-v1.000 — 2026-03-31
+v1.000 (2026-03-31)
 
 Initial release.
 
