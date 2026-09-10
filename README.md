@@ -6,7 +6,7 @@ A font that fixes your spelling. Try typing: definately, recieve, accomodate
 
 ## Download
 
-**[Download Autocorrect 1.000](https://github.com/michaelsfonts/Autocorrect/releases/latest)** — TTF to install on your computer, WOFF2 for the web, or the zip with both.
+**[Download Autocorrect 1.000](https://github.com/michaelsfonts/Autocorrect/releases/latest)**: TTF to install on your computer, WOFF2 for the web, or the zip with both.
 
 The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
 
